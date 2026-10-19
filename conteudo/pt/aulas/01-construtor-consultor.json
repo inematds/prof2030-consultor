@@ -121,7 +121,7 @@
       "links": [
         {"t": "Anthropic: Claude Opus 5.5 (22/09/2026), preço e custo por tarefa", "href": "https://www.anthropic.com/claude-opus-5-5", "icone": "arquivo"},
         {"t": "Gartner: Hype Cycle for Agentic AI, 17% com agentes em uso (cópia no Internet Archive)", "href": "https://web.archive.org/web/2026/https://www.gartner.com/en/articles/hype-cycle-for-agentic-ai", "icone": "grafico"},
-        {"t": "Profissional 2030: a base comum e as quatro formações", "href": "https://eventos.inema.pro/prof2030/", "icone": "camadas"}
+        {"t": "Profissional 2030: a base comum e as quatro formações", "href": "https://inematds.github.io/profissional-2030/", "icone": "camadas"}
       ]
     }
   ]

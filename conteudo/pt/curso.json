@@ -6,7 +6,7 @@
   "sub": "Profissional 2030 · formação",
   "volta": {
     "t": "Profissional 2030",
-    "href": "https://eventos.inema.pro/prof2030/"
+    "href": "https://inematds.github.io/profissional-2030/"
   },
   "lado_card": {
     "rot": "Empresa-laboratório",
@@ -15,7 +15,7 @@
     "link": "Abrir o laboratório",
     "href": "https://inematds.github.io/prof2030-lab/"
   },
-  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://eventos.inema.pro/prof2030/\">Profissional 2030</a> · <a href=\"https://inematds.github.io/prof2030-lab/\">Empresa-laboratório</a> · <a href=\"https://inema.club/\">inema.club</a>",
+  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a> · <a href=\"https://inematds.github.io/prof2030-lab/\">Empresa-laboratório</a> · <a href=\"https://inema.club/\">inema.club</a>",
   "videos": {},
   "inicio": {
     "kicker": "Profissional 2030 · Consultor de IA · 8 aulas",
@@ -24,7 +24,7 @@
     "cta": "Começar pela aula 1",
     "cta2": {
       "t": "Ver o Profissional 2030",
-      "href": "https://eventos.inema.pro/prof2030/"
+      "href": "https://inematds.github.io/profissional-2030/"
     },
     "capa_alt": "Mesa de consultor numa distribuidora: caderno com uma matriz de quatro quadrantes, relatórios e o depósito ao fundo.",
     "numeros": [
@@ -49,7 +49,7 @@
         "Desenhar piloto de 30 dias com critério de parar, medir em 30/60/90 dias e escrever a proposta de uma página."
       ]},
       {"t": "Profissional 2030", "itens": [
-        "Este curso faz parte do <a href=\"https://eventos.inema.pro/prof2030/\">Profissional 2030</a>: uma base comum, quatro formações e um laboratório.",
+        "Este curso faz parte do <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a>: uma base comum, quatro formações e um laboratório.",
         "Cada formação terá certificação INEMA; detalhes em breve. É certificação de qualificação, não profissão regulada.",
         "Base comum: <a href=\"https://inematds.github.io/prof2030-base/\">Confiar no que a IA constrói</a> · Laboratório: <a href=\"https://inematds.github.io/prof2030-lab/\">Horizonte Distribuidora</a>",
         "Formações: <a href=\"https://inematds.github.io/prof2030-consultor/\">Consultor</a> · <a href=\"https://inematds.github.io/prof2030-auditor/\">Auditor</a> · <a href=\"https://inematds.github.io/prof2030-mentor/\">Mentor</a> · <a href=\"https://inematds.github.io/prof2030-treinador/\">Treinador</a>"

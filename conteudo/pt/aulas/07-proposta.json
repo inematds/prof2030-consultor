@@ -141,7 +141,7 @@
       "titulo": "Para ir além",
       "links": [
         {"t": "Empresa-laboratório: Horizonte Distribuidora", "href": "https://inematds.github.io/prof2030-lab/", "icone": "pasta"},
-        {"t": "Profissional 2030: as outras formações", "href": "https://eventos.inema.pro/prof2030/", "icone": "camadas"}
+        {"t": "Profissional 2030: as outras formações", "href": "https://inematds.github.io/profissional-2030/", "icone": "camadas"}
       ]
     }
   ]

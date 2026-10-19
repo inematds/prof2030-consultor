@@ -288,6 +288,16 @@
           "t": "Fonte: Gartner, Hype Cycle for Agentic AI (Internet Archive)",
           "href": "https://web.archive.org/web/2026/https://www.gartner.com/en/articles/hype-cycle-for-agentic-ai",
           "icone": "arquivo"
+        },
+        {
+          "t": "Laboratório Horizonte: Painel de indicadores (F11)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Laboratório Horizonte: Inventário e IA na sombra (F12)",
+          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "icone": "lupa"
         }
       ]
     }
